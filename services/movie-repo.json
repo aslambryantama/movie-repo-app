@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "movie-app-376013",
+  "private_key_id": "4b8c220b028b475d44ef5c416d0fcb8f367f6c00",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxonY5dwKWQL1T\nTbBBPB/PZ72RJBPkxc9Ik9jz/kBxBcg3gSPI2W7a3XLPlwe+9tXFGPTxylMnEYVe\nQq7srRUEjGdxT+IXOe4kAarAPHeN8DBmxZEkqJzBGi/6uGK0Tm3QDZ5dVdC1F81D\n8abdkCMgHk1vdq6ktgxOjro0ggxgf80FAd1H+aqs81tQ63Erz+Lx1ZW2r0flA6dh\njw+u/5cVcY2VFlUdSRxQ8U/vE1HHuTNuTMOJh0dsSydX9bS1qp3vuCtR6jdXyYug\nrrxRwodfpWaVKGADIIheeI8rJheynLL3CMZNqQ4/ew3gdTxlVJNDYB68Wl7LPNnW\nELF1OlLPAgMBAAECggEAKP4o8lH4ktwV1OeUyTkqzh5OrPP6c00C7OjRpF0EWhDP\nh5+RtoQXBQMdv7JG41brNjTwMexTDC0K7hnNbGj09LvCE3Av6NRBlKWd1gceP+8x\n/EWTnTYcFqQIdn+ep6WBygWaikeHhoMbp5ZYv8DHml3j2Nk2rGQmqupdJkjsukfh\nJNl+PLY1sTtPxtbuAta2At8gbxfj5asMaX0haaz7zuvpvGrBbnwV3KgHvSol4Vl6\nniMvQxrr9IZG00inW9NwwjcNQF0wfzxRAOz1iqxdOWy7WugtSVWs9hN14O5FYxg2\nBCe1sTiqcU/sROsgszzO4uwQ2H8bl0f0dOXE3ccFAQKBgQDo//iYPT+wcgHhxvCx\n+rQVDgiYvQalFwnNmbf/BnF1T2XjEAKU6psgEcLUHv5QnclBwKrb5WbFIKgFsns1\n+2iJNqHYsOSy0JXjyOAiBGOScXBfSAzvwssz3R7igd6N04R9cBlzS4SNuIuG3CZz\n5aNtBYvwY1b15B8Zs4ypnsXU4QKBgQDDK2GkigILb/DZLCjXQ/yTs+mj1dYVm/VY\nyi8I9cStubpFbYG+R/tNAjaaDr8rFTrUGMg0CyPXruzxaaJlvE9GHv1HvPF2PBna\n8NNM613gC+W7AGczBMTN+cs4RDC/8jqEiO/VqsK9KLcZypBdJKsWZxSBr3nT6DUL\n0RgkwZptrwKBgEcOGK/ErfGPMwe5dZmxTM3G89QwgSBDgFfU8wmw21TdG8M9FKx5\nR0lmYTXzJbdMBx4oNXLN6KNhLBxgq7ZwrxZ5NK4yc+wcNDm8/q0hDYSRV6WXAWr0\nyqdMXajR1h8GTDc8wmYot4nIp7Q+2vMpKseKk3yBrvlZ0ioyWUk5BDfBAoGALqgJ\nQJ9pW7iX+CLRZJyxHdItsWfmNOZCocY7tkWijfFPcVd7Y7Srg75atTt/QdpiZN/D\nxIVBPUdpB1E8bFu3C8lOvT6S7rPxbmCR8tp1Z6EQe0LeaNjj/2WOylWq3cgXayWd\nSBP5V+UK2JSPLGUerU1ZHqOHWTwyqi+DOQ47T6sCgYBzfhXGHal80nN+O1e5CF7d\nbbnc2k2GaqHMBzAuPIz5IGWURuxvdmr/aHAy8+siNnMmM7LM9l47CacGhvndbv8w\n+xevpZrVz9fTlndPuk4nCfB3ign7UyJYHphAGqbmxeo5nRw3o+q8t0z80tkPqCty\nWONSuitAjv2PlJ31Fb47lw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "movierepo@movie-app-376013.iam.gserviceaccount.com",
+  "client_id": "117414896984322682128",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/movierepo%40movie-app-376013.iam.gserviceaccount.com"
+}
