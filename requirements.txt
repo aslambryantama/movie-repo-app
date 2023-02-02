@@ -1,7 +1,8 @@
-ipython==8.2.0
-pandas==1.4.2
-streamlit==1.15.2
 google-auth==2.16.0
 google-auth-ouathlib==0.8.0
 google-cloud-bigquery==3.4.2
 google-cloud-bigquery-storage==2.18.1
+protobuf==3.20.1
+ipython==8.2.0
+pandas==1.4.2
+streamlit==1.15.2
