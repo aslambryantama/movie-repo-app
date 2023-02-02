@@ -1,0 +1,48 @@
+/* Style For Movie Loop */
+.css-1n76uvr {
+    margin-bottom: 25px;
+}
+
+/* Style For Expander */
+
+.streamlit-expander{
+    border-style: none;
+    padding: 0px;
+    border-bottom: 1px rgba(0, 0, 0, .2) solid;
+}
+
+.streamlit-expander .streamlit-expanderHeader{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 1rem;
+    
+}
+
+.streamlit-expander .streamlit-expanderHeader p{
+    font-weight: bold;
+}
+
+.streamlit-expander .streamlit-expanderContent{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.css-1tvsewn {
+    gap : 0rem;
+}
+
+.css-1mbg4kq {
+    gap : 5px;
+}
+
+.stMarkdown h3 {
+    padding: 0px;
+}
+
+.css-12ttj6m {
+    border : 0px;
+}
+
+.css-ctszbf {
+    border : 0px;
+}

@@ -1,0 +1,7 @@
+**Welcome to our Movie Repository app!** Hopefully this app provide a user-friendly and efficient way to search many movies based on various combination of criteria such as title, genre, release date, rating, and many more. With our app, you can easily find the Movie you search for.
+
+Source Data for this app is using free dataset from [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) and shoutout to [Rounak Banik](https://www.kaggle.com/rounakbanik) for providing this dataset, you can also check my profile [here](https://www.linkedin.com/in/aslambryantama/). Hopefully, this app can be further enhanced by expand the movie dataset as updated as possible, migrate to much better cloud database, and adding more features such as movie recommendations etc.
+
+:triangular_flag_on_post: You can start your Movie discovery using the Form on the left sidebar (:point_left:) of this app, and you can further expand the `Advanced Search` options for more search criteria such as actor, director, franchise, and production studio. Then you can sort the movie based on option in the bottom. If all is done you can click the **Submit** button and your movie is shown!
+
+We hope you enjoy using our `Movie Repository app` and it helps you for finding and discovering more films. Happy movie searching!
