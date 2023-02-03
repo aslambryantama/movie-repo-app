@@ -8,7 +8,7 @@
 .streamlit-expander{
     border-style: none;
     padding: 0px;
-    border-bottom: 1px rgba(0, 0, 0, .2) solid;
+    border-bottom: 1px rgba(255, 255, 255, .4) solid;
 }
 
 .streamlit-expander .streamlit-expanderHeader{
