@@ -11,11 +11,11 @@ with open("style/style.css") as style:
 
 @st.experimental_singleton
 def connection():
-  credentials = service_account.Credentials.from_service_account_file('services/movie-repo.json')
-  project_id = 'movie-app-376013'
+  credentials = service_account.Credentials.from_service_account_info(st.secrets["api_auth"])
+  project_id = st.secrets["api_key"]["project"]
   client = bigquery.Client(credentials= credentials,project=project_id)
 
-  table_name = "movie-app-376013.movie_tmdb.all_movie"
+  table_name = st.secrets["api_key"]["db"]
   query_job = client.query(f"""
    SELECT *
    FROM {table_name}
@@ -77,7 +77,7 @@ with st.sidebar:
    # Every form must have a submit button.
     submitted = st.form_submit_button("🔍 Submit")
     #st.markdown("""---""")
-    st.markdown("""<div style="height:1px;border:none;background-color:rgba(0, 0, 0, .3);" /> """, unsafe_allow_html=True)
+    st.markdown("""<div style="height:1px;border:none;background-color:rgba(255, 255, 255, .3);" /> """, unsafe_allow_html=True)
     st.caption('Press "F5" to Refresh your search')
     
     if submitted:
@@ -119,7 +119,7 @@ if submitted:
   for index, row in df_best.iterrows():
     n = n + 1
   st.subheader(f"{n} Movies Found 🎬")
-  st.markdown("""<div style="height:1px;border:none;background-color:rgba(0, 0, 0, .2);" /> """, unsafe_allow_html=True)
+  st.markdown("""<div style="height:3px;border:none;background-color:#202c3f;" /> """, unsafe_allow_html=True)
   for index, row in df_best.iterrows():
     with st.container():
       col1, col2 = st.columns([1,2])
