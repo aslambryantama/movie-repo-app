@@ -27,7 +27,7 @@ If it's not enough, there is an **Advanced Search** dropdown menu. just click it
 
 ## Dataset
 
-* Source Data for this app is using free dataset from [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) and shoutout to [Rounak Banik](https://www.kaggle.com/rounakbanik) for providing this dataset pm kaggle.
+* Source Data for this app is using free dataset from [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) and shoutout to [Rounak Banik](https://www.kaggle.com/rounakbanik) for providing this dataset on kaggle.
 
 * The dataset consists of movies released on and up to July 2017 with approximately up to 45,000 movies. There are 16 attributes column for this dataset
 
