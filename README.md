@@ -1,6 +1,6 @@
 # Movie Repository App (with Streamlit and Bigquery)
 
-Open the App : **[abry-movie.streamlit.app]**(https://abry-movie.streamlit.app/)
+Open the App : [abry-movie.streamlit.app](https://abry-movie.streamlit.app/)
 
 ## Description
 
