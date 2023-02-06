@@ -14,7 +14,7 @@ This app is a web-based application developed using Python mainly with streamlit
 ![App interface](/description/home.png "Display APP")
 
 You can start using the app right away with fill the **Sidebar** on the left side of the app, or if you on mobile you have to expand the menu first to show the form. with that form you can fill many criteria such as Title, Genre, Year Release, and even Movie Budget. user also can configure about how many movies will be shown. if you done fill your criteria you can click the **Submit** button on the bottom of the sidebar. and your movie will show like this
-![App interface](/description/use.png "Display APP")
+![App interface](/description/menu.png "Display APP")
 
 If it's not enough, there is an **Advanced Search** dropdown. just click and there will be shown many more criteria to fill such as actor, director, franchise, and production studio.
 ![App interface](/description/advanced.png "Display APP")
