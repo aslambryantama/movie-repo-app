@@ -1,25 +1,27 @@
-# Movie Repository App
+# Movie Repository App (with Streamlit and Bigquery)
 
-Open the App : [abry-movie.streamlit.app](https://abry-movie.streamlit.app/)
+Open the App : **[abry-movie.streamlit.app]**(https://abry-movie.streamlit.app/)
 
-## Project Description
+## Description
 
-This project is a continuation of the previous project about Movie Analysis Dataset, but this project aims to be more personal and customs based on user criteria that want to know their own top movies based on their preferences, because in the previous analysis project we only conclude our analysis more on general results.
+This project is a continuation of the previous project about Movie Analysis Dataset, but this project aims to be more customs and more personal based on user that have certain specified criteria. User can defined their own top movies based on their preferences, because in the previous analysis project we only conclude our analysis more on general results.
 
 So this project gives users more freedom to choose and determine their own favorite. cause everybody has their own unique preference about what they want to see.
 
-This app is a web-based application developed using Python mainly with streamlit and pandas library. The app uses database from BigQuery in Google Cloud to store it's dataset, and to interact with it we use Google Cloud API and connect it to our app to access the database. The app itself is deployed with Streamlit cloud service so it can be accessed by everyone on the internet.
+## About the App
 
-> **APP Interface :**
+This app is a web-based application developed using __Python__ mainly with __Streamlit__ and __Pandas__ library. The app uses database from __BigQuery__ in Google Cloud to store it's dataset, and to interact with it we use __Google Cloud API__ and connect it to our app to access the database. The app itself is deployed with streamlit cloud service so it can be accessed by everyone on the internet.
+
+**APP Interface :**
 ![App interface](/description/home.png "Display APP")
 
-> You can start using the app right away with fill the **Sidebar** on the left side of the app, or if you on mobile you have to expand the menu first to show the form. with that form you can fill many criteria such as Title, Genre, Year Release, and even Movie Budget. user also can configure about how many movies will be shown. if you done fill your criteria you can click the **Submit** button on the bottom of the sidebar. and your movie will show like this
+You can start using the app right away with fill the **Sidebar** on the left side of the app, or if you on mobile you have to expand the menu first to show the form. with that form you can fill many criteria such as Title, Genre, Year Release, and even Movie Budget. user also can configure about how many movies will be shown. if you done fill your criteria you can click the **Submit** button on the bottom of the sidebar. and your movie will show like this
 ![App interface](/description/menu.png "Display APP")
 
-> If it's not enough, there is an **Advanced Search** dropdown menu. just click it and another form will be expanded and shown many more criteria to fill such as actor, director, franchise, and even production studio.
+If it's not enough, there is an **Advanced Search** dropdown menu. just click it and another form will be expanded and shown many more criteria to fill such as actor, director, franchise, and even production studio.
 ![App interface](/description/advanced.png "Display APP")
 
-> you can test our app [here](https://abry-movie.streamlit.app/)
+> You can test our app [here](https://abry-movie.streamlit.app/)
 
 ## Dataset
 
@@ -29,7 +31,7 @@ This app is a web-based application developed using Python mainly with streamlit
 
 ## App Requirements
 
-This app uses python 3.9.2 and Streamlit 1.15.2, for more detail open requirements.txt and for instalation :
+This app uses python 3.9.2 and Streamlit 1.15.2 as its core. For more detail, open requirements.txt or simply install :
 ````python
 pip install -r requirements.txt 
 pip3 install -r requirements.txt
