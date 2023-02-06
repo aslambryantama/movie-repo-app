@@ -19,7 +19,7 @@ You can start using the app right away with fill the **Sidebar** on the left sid
 
 ![App interface](/description/menu.png "Display APP")
 
-If it's not enough, there is an **Advanced Search** dropdown menu. just click it and another form will be expanded and shown many more criteria to fill such as actor, director, franchise, and even production studio.
+If it's not enough, there is an '**Advanced Search**' dropdown menu. just click it and another form will be expanded and shown many more criteria to fill such as actor, director, franchise, and even production studio.
 
 ![App interface](/description/advanced.png "Display APP")
 
