@@ -4,4 +4,4 @@ Source Data for this app is using free dataset from [here](https://www.kaggle.co
 
 :triangular_flag_on_post: You can start your Movie discovery using the Form on the left sidebar (:point_left:) of this app, and you can further expand the `Advanced Search` options for more search criteria such as actor, director, franchise, and production studio. Then you can sort the movie based on option in the bottom. If all is done you can click the **Submit** button and your movie is shown!
 
-We hope you enjoy using our `Movie Repository app` and it helps you for finding and discovering more films. Happy movie searching!
+We hope you enjoy using our **Movie Repository app** and it helps you for finding and discovering more films. Happy movie searching!

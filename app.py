@@ -9,6 +9,8 @@ from google.cloud import bigquery_storage
 with open("style/style.css") as style:
   st.markdown(f"<style>{style.read()}<style", unsafe_allow_html=True)
 
+st.set_page_config(page_title="Movie Repository App", page_icon="🎬", layout="centered", initial_sidebar_state="auto", menu_items=None)
+
 @st.experimental_singleton
 def connection():
   credentials = service_account.Credentials.from_service_account_info(st.secrets["api_auth"])
