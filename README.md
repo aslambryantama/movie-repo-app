@@ -4,7 +4,7 @@ Open the App : [abry-movie.streamlit.app](https://abry-movie.streamlit.app/)
 
 ## Description
 
-This project is a continuation of the previous project about Movie Analysis Dataset, but this project aims to be more customs and more personal based on user that have certain specified criteria. User can defined their own top movies based on their preferences, because in the previous analysis project we only conclude our analysis more on general results.
+This project is a continuation of the previous project about Movie Analysis Dataset on [here](https://github.com/aslambryantama/movie-dataset-analysis), but this project aims to be more customs and more personal based on user that have certain specified criteria. User can defined their own top movies based on their preferences, because in the previous analysis project we only conclude our analysis more on general results.
 
 So this project gives users more freedom to choose and determine their own favorite. cause everybody has their own unique preference about what they want to see.
 
